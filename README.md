@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm S.Dineshwaran</h1>
-<h3 align="center">A passinate learnerto develope skills and enhance the knowledge</h3>
+<h3 align="center">A passinate learner to develope skills and enhance the knowledge</h3>
+<ul>
+  <li>:grinning:I'm Coder</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
