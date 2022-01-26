@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm S.Dineshwaran</h1>
 <h3 align="center">A passinate learner to develope skills and enhance the knowledge</h3>
-<img src="https://www.freepik.com/free-vector/computer-monitor-graphic-animator-creating-video-game-modeling-motion-processing-video-file-using-professional-editor-vector-illustration-graphic-design-art-designer-workplace-concept_11671412.htm#query=computer&from_query=computer%20gif&position=2&from_view=search">
+<img src="https://www.freepik.com/free-vector/computer-monitor-graphic-animator-creating-video-game-modeling-motion-processing-video-file-using-professional-editor-vector-illustration-graphic-design-art-designer-workplace-concept_11671412.htm#query=computer&from_query=computer%20gif&position=2&from_view=search"? />
 <ul>
    <li>:man_student: I'm Pursuing CSE</li>
   <li>:grinning: I'm Coder</li>
