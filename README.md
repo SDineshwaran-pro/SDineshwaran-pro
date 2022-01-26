@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm S.Dineshwaran</h1>
 <h3 align="center">A passinate learner to develope skills and enhance the knowledge</h3>
 <ul>
-  <li>:grinning:I'm Coder</li>
-  <li>:point_right:I,m Currently learning</li>
-  <li>:point_right:I,m Currently learning</li>
-  <li>:writing_hand:Likes to write blogs</li>
-  
+   <li>:man_student: I'm Pursuing CSE</li>
+  <li>:grinning: I'm Coder</li>
+  <li>:point_right: I'm Currently learning Machine Learning and AI</li>
+  <li>:writing_hand: Likes to write blogs</li>
+  <li>:sunglasses: Be Sportive</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
