@@ -2,6 +2,10 @@
 <h3 align="center">A passinate learner to develope skills and enhance the knowledge</h3>
 <ul>
   <li>:grinning:I'm Coder</li>
+  <li>:point_right:I,m Currently learning</li>
+  <li>:point_right:I,m Currently learning</li>
+  <li>:writing_hand:Likes to write blogs</li>
+  
 </ul>
 
 <h3 align="left">Connect with me:</h3>
