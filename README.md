@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm S.Dineshwaran</h1>
 <h3 align="center">A passinate learner to develope skills and enhance the knowledge</h3>
-<center><img src="photo.jpg" height="200px" width="400px"/></center>
+<p align="center"><img src="photo.jpg" height="200px" width="400px"/></p>
 <ul>
    <li>:man_student: I'm Pursuing CSE</li>
   <li>:grinning: I'm Coder</li>
